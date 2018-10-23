@@ -30,5 +30,5 @@ upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
-file_template: ":filename:"
+file_template: ":year:/:filename:"
 version: '0.49'
