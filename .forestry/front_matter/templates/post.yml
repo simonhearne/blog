@@ -20,3 +20,5 @@ fields:
   hidden: false
   default: ''
   description: Add publishing date here
+pages:
+- content/posts/webperf/web-performance-is-user-experience.md
