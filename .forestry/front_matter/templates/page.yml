@@ -21,5 +21,6 @@ fields:
     required: false
   description: Add publishing date here
 pages:
+- content/books.md
 - content/links.md
 - content/about.md
