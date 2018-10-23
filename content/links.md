@@ -6,3 +6,11 @@ title = "Links"
 
 +++
 All things useful...
+
+## Tools
+
+* tool 1
+
+## Podcasts
+
+* podcast 1
