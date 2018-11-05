@@ -1,4 +1,4 @@
-baseURL = "http://simonhearne.co.uk/"
+baseURL = "http://blog.simonhearne.co.uk/"
 languageCode = "en-us"
 theme = "hyde"
 title = "Simon Hearne's Blog"
