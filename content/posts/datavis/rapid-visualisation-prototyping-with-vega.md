@@ -28,4 +28,18 @@ I was asked to help design the visualization section for part 2. I decided to us
 
 An environment to prototype Vega charts can be as simple as a web browser.
 
+## Process
+
+### 1 Data
+
+It’s tough to generate visualisations without data.
+
+### 2 Paper Prototyping
+
+### 3 First Chart
+
+### 4 Iterating
+
+### 5 Productionising
+
 If you’d like to get started querying CRUX data for yourself there is a [great tutorial by the Chrome Developer team](https://developers.google.com/web/tools/chrome-user-experience-report/getting-started).
