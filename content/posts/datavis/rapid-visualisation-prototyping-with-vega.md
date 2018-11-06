@@ -48,10 +48,8 @@ Note that this section comes before Data - I think it’s important to focus on 
 
 So with data available...
 
-### 4 Data
+### 4 Iterating
 
-### 5 Iterating
-
-### 6 Productionising
+### 5 Productionising
 
 If you’d like to get started querying CRUX data for yourself there is a [great tutorial by the Chrome Developer team](https://developers.google.com/web/tools/chrome-user-experience-report/getting-started).
