@@ -21,4 +21,5 @@ fields:
   default: ''
   description: Add publishing date here
 pages:
+- content/posts/datavis/rapid-visualisation-prototyping-with-vega.md
 - content/posts/webperf/web-performance-is-user-experience.md
